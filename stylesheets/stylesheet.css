@@ -5,6 +5,7 @@
 
 h1{
   font-size:20px;
+  text-align:center;
 }
 body{
   background-color:#111;
@@ -12,4 +13,8 @@ body{
 
 header{
   background-color:#ccc;
+  text-align:center;
+  margin:5px;
+  padding:5px;
+  border-radius:45px;
 }
