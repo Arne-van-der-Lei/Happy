@@ -1,1 +1,4 @@
-console.log('This would be the main JS file.');
+
+function onClick(){
+  alert("Ime not happy. You have hit my face")
+}
